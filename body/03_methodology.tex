@@ -1,3 +1,22 @@
 \chapter{Methodology}
-\label{ch:srs}
+\label{ch:method}
 
+This chapter presents the basic testing methods applied in my project, including MT and Fuzz testing, and it also shows the combination of the two methods. The software level modules of Apollo and its internal Robotic Operating System are introduced. Finally, the mechanism of data extraction and analysis in presented.
+ 
+\section{MR and MT}
+Introduce how to apply MT to my project of testing, and how it is used to detect MR violations. Give some NEW MRs that support testing. Specify what makes a good MR. Give some example of poor MRs?
+
+\section{Fuzz Testing}
+Introduce how fuzz testing is used in test case generation in my project. Discuss how fuzz parameters (refresh frequency, approach to define obstacle generation region, density of obstacles in testing region) influences the testing results. Specify what is a good fuzzing. 
+
+\section{MFT: The Combination of MT and Fuzzing}
+Describe how the two methods are combined and generate a more appropriate approach for testing Baidu Apollo software. State why this is suitable for autonomous driving testing. 
+
+\section{Apollo Software Modules}
+Outline the primary modules in Apollo software that is highly relative to my testing. For example, prediction, perception, planning, control and routing. Discuss how these modules interact with each other and how data is transmitted and stored.
+
+\section{Robot Operating System}
+Describe the background information of ROS, including file system, computational graph and ROS nodes, ROS topics and ROS messages, and testing script writing in Python.
+
+\section{Data Extraction and Analysis}
+Show how key information (obstacle information, collision information, vehicle information) in the driving simulation can be extracted and how these data can be use to analysis the collision rate and evaluate MRs and fuzz functions.

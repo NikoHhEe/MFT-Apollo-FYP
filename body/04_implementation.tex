@@ -1,2 +1,31 @@
 \chapter{Design \& Implementation}
 \label{ch:implementation}
+
+This chapter covers the design of the automatic testing in this project. It then specifies the Apollo installation details and Dreamview Simulation Environment GUI.
+
+Design containing a comprehensive description of the design chosen, how it addresses the problem, and why it is designed the way it is
+Implementation containing a comprehensive description of the implementation of your software, including the language(s) and platform chosen, problems encountered, any changes made to the design as a result of the implementation, etc.
+
+\section{Design of Automatic Testing}
+Introduce the first and second stages of the test, and accordingly fuzzing and MT steps.
+
+\subsection{Fuzzing}
+Describe how the obstacles are randomly generated in the scene and how is the information of obstacles and collisions are monitored and obtained.
+
+\subsection{MR Generation and MT Implementation}
+Present the MRs used and how MT is applied to generated follow-up cases. Explain in detail how the source test cases were restored and how follow-up ones are developed based on source ones and the MRs.
+
+\subsection{Test Script Explanation}
+Introduce the programming language (Python) used to write the scripts. Give details of related libraries used in the script and how the data is stored in and read from files.
+
+\section{Apollo Installation and Dreamview Simulation Environment}
+Introduce the procedures of Apollo installation, building and debug. Describe the GUI and usage of Dreamview. State the supporting OS, platform and related issues encountered.
+
+\subsection{Building Apollo on Ubuntu 18.04}
+Explain that Apollo is only supported in Ubuntu OS (Because it need ROS which can only run on Linux). Specify how Apollo is build on Ubuntu 18.04. 
+
+\subsection{Docker Environment}
+Introduce the concepts of Docker and how it is used to provide a running environment of Apollo. Give some instructions or problems encountered.
+
+\subsection{Problems Encountered}
+Provide details of technical problems encountered in building Apollo, using Dreamview and running test scripts.

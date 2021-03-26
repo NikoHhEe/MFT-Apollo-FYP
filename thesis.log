@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.10.14)  26 MAR 2021 15:47
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.10.14)  26 MAR 2021 18:19
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -727,7 +727,7 @@ LaTeX Info: Redefining \nameref on input line 11.
 \openout4 = `thesis.out'.
 
 \c@lstlisting=\count302
-<images/nottingham-logo.png, id=80, 191.94913pt x 70.8246pt>
+<images/nottingham-logo.png, id=172, 191.94913pt x 70.8246pt>
 File: images/nottingham-logo.png Graphic file (type png)
 <use images/nottingham-logo.png>
 Package pdftex.def Info: images/nottingham-logo.png  used on input line 21.
@@ -770,61 +770,60 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 7.
 
 (d:/texlive/2020/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-))
+) [3
+
+
+])
 \tf@toc=\write5
 \openout5 = `thesis.toc'.
 
- [3
-
-
-] (./thesis.lof)
+ [4] (./thesis.lof)
 \tf@lof=\write6
 \openout6 = `thesis.lof'.
 
-
-[4
+[5
 
 
 ] (./thesis.lot)
 \tf@lot=\write7
 \openout7 = `thesis.lot'.
 
- [5
+ [6
 
 
 ] (./abbreviations/abbreaviations.tex
 No file thesis.nls.
 ) (./body/00_body.tex (./body/01_introduction.tex
 Chapter 1.
-) (./body/02_related_work.tex [6
+) (./body/02_related_work.tex [7
 
 
 
-] [7]
+] [8]
 Chapter 2.
-) (./body/03_methodology.tex [8
+) (./body/03_methodology.tex [9
 
 ]
 Chapter 3.
-) (./body/04_implementation.tex [9
+[10
 
-]
+]) (./body/04_implementation.tex [11]
 Chapter 4.
-) (./body/05_result.tex [10
+[12
 
-]
+]) (./body/05_result.tex [13]
 Chapter 5.
-) (./body/06_summary.tex [11
+) (./body/06_summary.tex [14
 
 ]
 Chapter 6.
-)) (./thesis.bbl [12
+)) (./thesis.bbl [15
 
 ]
 
 LaTeX Warning: Empty `thebibliography' environment on input line 3.
 
-) [13
+) [16
 
 ]
 
@@ -832,31 +831,25 @@ LaTeX3 Info: Redefining command \BeforeClosingMainAux with sig. 'm' on line
 (LaTeX3)     55.
 
  (./thesis.aux)
-
-Package rerunfilecheck Warning: File `thesis.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `thesis.out':
-(rerunfilecheck)             Before: FEDA9CBE27C084BCDD32F781312096E4;1112
-(rerunfilecheck)             After:  A70C79E3F55968559A52A5DF2E411DE4;1369.
+Package rerunfilecheck Info: File `thesis.out' has not changed.
+(rerunfilecheck)             Checksum: E6310BEFCF9043A2B559C6C1BF853CC8;2826.
  ) 
 Here is how much of TeX's memory you used:
- 12523 strings out of 479917
- 190370 string characters out of 5886664
- 554684 words of memory out of 5000000
- 28742 multiletter control sequences out of 15000+600000
+ 12569 strings out of 479917
+ 190969 string characters out of 5886664
+ 563706 words of memory out of 5000000
+ 28765 multiletter control sequences out of 15000+600000
  543390 words of font info for 61 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 102i,6n,103p,504b,373s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 102i,6n,103p,504b,431s stack positions out of 5000i,500n,10000p,200000b,80000s
 <d:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><d:/tex
 live/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><d:/texlive/2020
 /texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><d:/texlive/2020/texmf-dis
 t/fonts/type1/public/amsfonts/cm/cmr12.pfb>
-Output written on thesis.pdf (14 pages, 146951 bytes).
+Output written on thesis.pdf (17 pages, 162465 bytes).
 PDF statistics:
- 217 PDF objects out of 1000 (max. 8388607)
- 193 compressed objects within 2 object streams
- 39 named destinations out of 1000 (max. 500000)
- 158 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 370 PDF objects out of 1000 (max. 8388607)
+ 341 compressed objects within 4 object streams
+ 62 named destinations out of 1000 (max. 500000)
+ 342 words of extra memory for PDF output out of 10000 (max. 10000000)
 
