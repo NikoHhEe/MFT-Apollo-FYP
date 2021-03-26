@@ -1,0 +1,9 @@
+\begin{acknowledgments}
+% here you can write your acknowledgments
+This project could not have been completed without the guidance from my supervisor - Dr. Dave Towey, to whom I express my highest appreciation for helping me on every stage of my project and always supporting me during the difficult times. Additional recognition goes to Mr. Gabriel, a PhD student from the University of Nottingham Ningbo China, who shared some experience with me about running Apollo software as well as dealing with specific bugs. \newline
+
+I also want to express my gratitude to the researchers from the University of Wollongong, Dr. Zhiquan Zhou and Dr. Jiancheng Han, for giving me guidance of implementing automatic testing in Baidu Apollo.
+
+
+\clearpage
+\end{acknowledgments}

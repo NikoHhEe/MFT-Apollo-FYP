@@ -1,0 +1,19 @@
+\chapter{Introduction}
+\label{ch:introduction}
+This chapter introduces the background information of autonomous vehicles as well as the basic concepts of metamorphic testing and fuzz testing. The motivation, aims and objectives of the project are then described. Finally, the outline of the dissertation is given.
+
+\section{Background}
+
+\subsection{Autonomous Vehicles and Baidu Apollo}
+Give background information, history, technologies and applications of autonomous vehicles. Introduce Baidu Apollo system in details, especially in the level of software. 
+\subsection{Oracle Problem and Metamorphic Testing}
+Describe the definitions of Oracle problem, MT and MR. Give simple examples here. Explain why this approach is suitable for autonomous driving.
+\subsection{Fuzz Testing}
+Explain the concepts of fuzz and fuzz testing. Give examples and explain the reason of using this technique.
+
+\section{Motivation}
+Provide real life problems or accidents of autonomous driving systems
+\section{Aims and Objectives}
+Explain the overall intention of the project and specific steps that will be taken to achieve the intention.
+\section{Dissertation Outline}
+Summarize the chapter and give the outline of the rest of the dissertation

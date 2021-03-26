@@ -1,0 +1,11 @@
+\chapter{Methodology}
+\label{ch:method}
+
+This chapter presents the (theoretical/experimental/analytical/numerical/software development-based/research-based, etc.) methodologies/techniques/tools/algorithms/technologies/etc. that are relevant to the project topic justifying the choices made for the project, where possible with supporting evidence derived from the existing work.
+ 
+\section{MR and MT}
+\section{Fuzz Testing}
+\section{MFT: The Combination of MT and Fuzzing}
+\section{Apollo Software Modules}
+\section{Robot Operating System}
+\section{Data Extraction and Analysis}
